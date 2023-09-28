@@ -1,4 +1,4 @@
-'''
+"""
 Hridoy Ahmed
 162-15-7981
 Section: C
@@ -8,7 +8,7 @@ Daffodil International University
 Notes:
     1. Python Codes gets executed line by line from the TOP
     2. Case Sensitive
-'''
+"""
 
 print('Hridoy')
 print("Ahmed")
